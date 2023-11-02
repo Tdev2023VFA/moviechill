@@ -13,7 +13,7 @@ const Footer = () => {
                 </p>
             </div>
             <h4 className='text-center italic text-sm py-2 text-gray-400 bg-[#27272a9c]'>
-                Developed by sonvng &hearts;
+                Developed by tdev &hearts;
             </h4>
         </div>
      );
